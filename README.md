@@ -36,4 +36,3 @@ This project aims to analyze and identify the factors that affect Customer Churn
 
 - Customers using Fiber Optics Service under Month-to-Month Contract paying through Mailed Check in tenure ranging 0-24 are at highest Churn Risk.
 - Customers using No Internet Service under Two Year Contract paying through Credit Card are at lowest Churn Risk.
-- 
